@@ -1,0 +1,6 @@
+{
+  "name": "Life Hub Workspace",
+  "description": "An ultra-clean minimalist workspace uniting daily scheduling, finance tracking, encrypted vault, reflective journaling, habit tracking, and life planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
